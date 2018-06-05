@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\cl_base.o
+./debug\cl_application.o
+./debug\cl_1.o
+./debug\cl_2.o
+./debug\cl_3.o
+./debug\cl_4.o
+./debug\menu.o
+./debug\set_out.o
+./debug\instal.o
+./debug\great.o
+./debug\iron.o
+);

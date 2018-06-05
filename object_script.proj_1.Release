@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\cl_base.o
+./release\cl_application.o
+./release\cl_1.o
+./release\cl_2.o
+./release\cl_3.o
+./release\cl_4.o
+./release\menu.o
+./release\set_out.o
+./release\instal.o
+./release\great.o
+./release\iron.o
+);
